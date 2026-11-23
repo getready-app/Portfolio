@@ -1,0 +1,10 @@
+{
+  "name": "portfolio-mohamed-aiteur",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server --bind 127.0.0.1 4173"
+  },
+  "description": "Portfolio personnel de Mohamed Aiteur — site statique sans dépendances."
+}
