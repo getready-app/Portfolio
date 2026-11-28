@@ -1325,6 +1325,11 @@ button {
     display: flex;
     flex-direction: column;
   }
+  .project-sort {
+    grid-column: auto;
+    display: flex;
+    flex-direction: column;
+  }
   .visual {
     min-height: 226px;
   }
